@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.5)  21 SEP 2022 13:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.5)  23 SEP 2022 13:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -893,57 +893,45 @@ Package pdftex.def Info: images/Template/VuBG2.png  used on input line 21.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./images/Template/VuBG2.png> <./images/Template/vu-logo.png>]
+No file main_figure_making.toc.
 
 LaTeX Font Warning: Font shape `OT1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 31.
+(Font)              Font shape `OT1/lmr/m/sc' tried instead on input line 27.
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 31.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [2
-
-]
-No file main_figure_making.toc.
-[3
+[2
 
  <./images/Template/vu-logo.png>]
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 43.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+\openout4 = `main_figure_making.vrb'.
+
+ (./main_figure_making.vrb
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 43.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 43.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 43.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 43.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 43.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 43.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 43.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 43.
- [4
+<images/Section 1/Inkscape_Logo.svg.png, id=35, 1927.2pt x 1927.2pt>
+File: images/Section 1/Inkscape_Logo.svg.png Graphic file (type png)
+<use images/Section 1/Inkscape_Logo.svg.png>
+Package pdftex.def Info: images/Section 1/Inkscape_Logo.svg.png  used on input line 11.
+(pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
+) [3
+
+ <./images/Section 1/Inkscape_Logo.svg.png>] (./main_figure_making.vrb
+File: images/Section 1/Inkscape_Logo.svg.png Graphic file (type png)
+<use images/Section 1/Inkscape_Logo.svg.png>
+Package pdftex.def Info: images/Section 1/Inkscape_Logo.svg.png  used on input line 11.
+(pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
+) [4
+
+] (./main_figure_making.vrb
+File: images/Section 1/Inkscape_Logo.svg.png Graphic file (type png)
+<use images/Section 1/Inkscape_Logo.svg.png>
+Package pdftex.def Info: images/Section 1/Inkscape_Logo.svg.png  used on input line 11.
+(pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
+) [5
 
 ]
 No file main_figure_making.toc.
-[5
+[6
 
 ]
 \openout4 = `main_figure_making.vrb'.
@@ -952,7 +940,40 @@ No file main_figure_making.toc.
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 2.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstlang2.sty
 File: lstlang2.sty 2020/03/24 1.8d listings language file
@@ -972,31 +993,31 @@ File: lstlang2.sty 2020/03/24 1.8d listings language file
 File: lstlang3.sty 2020/03/24 1.8d listings language file
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-)) [6
+)) [7
 
 ]
 \openout4 = `main_figure_making.vrb'.
 
- (./main_figure_making.vrb) [7
-
-] (./main_figure_making.vrb) [8
+ (./main_figure_making.vrb) [8
 
 ] (./main_figure_making.vrb) [9
 
 ] (./main_figure_making.vrb) [10
 
+] (./main_figure_making.vrb) [11
+
 ]
 \openout4 = `main_figure_making.vrb'.
 
- (./main_figure_making.vrb) [11
+ (./main_figure_making.vrb) [12
 
 ]
 No file main_figure_making.toc.
-[12
-
-] [13
+[13
 
 ] [14
+
+] [15
 
 ]
 \tf@nav=\write6
@@ -1022,18 +1043,18 @@ Package rerunfilecheck Info: Checksums for `main_figure_making.out':
 (rerunfilecheck)             After:  82B696728F48318CE7C9FDDB0BDA8E02;273.
  ) 
 Here is how much of TeX's memory you used:
- 28299 strings out of 478268
- 551755 string characters out of 5846348
- 1033898 words of memory out of 5000000
- 45855 multiletter control sequences out of 15000+600000
+ 28316 strings out of 478268
+ 552228 string characters out of 5846348
+ 1033980 words of memory out of 5000000
+ 45862 multiletter control sequences out of 15000+600000
  521316 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  142i,11n,136p,486b,2439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt8.pfb>
-Output written on main_figure_making.pdf (14 pages, 1697193 bytes).
+Output written on main_figure_making.pdf (15 pages, 2230092 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 64 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 168 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 69 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1663758401 "/Users/jbusink/Documents/GitHub/Beamer-VU/Beamer VU Template/main_figure_making.tex" "main_figure_making.pdf" "main_figure_making" 1663758401
-  "/Users/jbusink/Documents/GitHub/Beamer-VU/Beamer VU Template/main_figure_making.tex" 1663758361 3138 3e41e88e055e1240251b5c1be427b45a ""
+["pdflatex"] 1663934020 "/Users/jbusink/Documents/GitHub/Beamer-VU/Beamer VU Template/main_figure_making.tex" "main_figure_making.pdf" "main_figure_making" 1663934020
+  "/Users/jbusink/Documents/GitHub/Beamer-VU/Beamer VU Template/main_figure_making.tex" 1663934016 3220 bb54d6dca93e834c2d08f7f8f310d7fb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rmsc.enc" 1202520719 2355 3e74b90173fc699673a5163cee277702 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc" 1254269338 2359 de53213020575850c8f8debc35095765 ""
@@ -242,12 +242,13 @@
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "beamerthemesintef.sty" 1663758157 7335 5f2a66665bbc428f5aa54fafe09cfaea ""
   "customize.tex" 1663756102 2384 5cf90f02474781e032f23620a6a474ae ""
+  "images/Section 1/Inkscape_Logo.svg.png" 1663933854 554558 babeb75d9532e5f7b02219a962aec972 ""
   "images/Template/VuBG2.png" 1663756102 1627067 ab9ab6066a05627e97517be00cc369ea ""
   "images/Template/vu-logo.png" 1663756102 335283 916ca41d0e9984d574a30194327db8a1 ""
-  "main_figure_making.aux" 1663758401 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main_figure_making.aux" 1663934020 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "main_figure_making.nav" 0 -1 0 "pdflatex"
   "main_figure_making.out" 0 -1 0 "pdflatex"
-  "main_figure_making.tex" 1663758361 3138 3e41e88e055e1240251b5c1be427b45a ""
+  "main_figure_making.tex" 1663934016 3220 bb54d6dca93e834c2d08f7f8f310d7fb ""
   "main_figure_making.toc" 0 -1 0 "pdflatex"
   "main_figure_making.vrb" 0 -1 0 "pdflatex"
   "sintefbeamer.cls" 1663756102 444 b9605ff6b7fb2eee1545f99582ba5bb2 ""
